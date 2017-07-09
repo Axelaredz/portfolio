@@ -6,7 +6,7 @@ body {
 
 .demo-gallery > ul {
   margin-bottom: 0;
-  padding-left: 15px;
+  padding-left: 0;
 }
 
 .demo-gallery > ul > li {
