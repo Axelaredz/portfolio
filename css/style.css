@@ -10,10 +10,12 @@ body {
 }
 
 .demo-gallery > ul > li {
-  margin-bottom: 15px;
-  width: 180px;
+  margin-bottom: 2px;
+  width: 200px;
+  height:133px;
+  border-radius:5px;
   display: inline-block;
-  margin-right: 15px;
+  margin-right: 2px;
   list-style: outside none none;
 }
 
