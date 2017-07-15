@@ -1,0 +1,13 @@
+# humanstxt.org/
+# Люди не машины..
+
+# Команда
+
+AxeLVaisper | разработчик | https://vk.com/AxeLVaisper
+
+# Благодарности
+
+
+# Используемые технологиИ
+
+    CSS3, HTML5
